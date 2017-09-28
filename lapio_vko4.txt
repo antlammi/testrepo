@@ -1,6 +1,6 @@
 moi
 lisään
-tekstiä
+muuta tekstiä
 tiedostoon 
 moi
 
